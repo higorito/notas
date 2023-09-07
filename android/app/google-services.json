@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39146786111",
+    "project_id": "notepad-mobile",
+    "storage_bucket": "notepad-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39146786111:android:a5b2b146bd51dfd256578a",
+        "android_client_info": {
+          "package_name": "br.com.higor.app.notepad_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39146786111-uutl6e23tbsitm5cjr9ojllrj9hq7j38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmWysCeIMOpYVu2-Rc9FkOR4Ts34uqRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39146786111-uutl6e23tbsitm5cjr9ojllrj9hq7j38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
