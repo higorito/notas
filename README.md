@@ -1,16 +1,14 @@
-# notepad_mobile
+# Bloco de Notas
 
-A new Flutter project.
+## Este é um bloco de notas simples feito com Flutter e Dart. 
 
-## Getting Started
+### O app tem as seguintes funcionalidades: 
+- Criar notas
+- Editar notas
+- Excluir notas
 
-This project is a starting point for a Flutter application.
+É um app simples, mas que pode ser usado como base para outros apps mais complexos. Pois tem as funcionalidades básicas de um app, esta bem organizado e comentado. Além de estar conectado ao Firebase, que é um serviço de banco de dados em nuvem, que pode ser usado para armazenar as notas.
 
-A few resources to get you started if this is your first Flutter project:
+Segue uma imagem do app(Não reparem na bagunça das notas, é só para mostrar que o app funciona rs):
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Bloco de Notas](print.jpeg)
